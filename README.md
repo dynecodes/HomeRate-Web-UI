@@ -81,7 +81,7 @@ HomeRate-Web-UI/
 └── README.md
 
 ### Live Site
-##[https://home-rate-web-cum6rozeb-dynecodes-projects.vercel.app]
+## [https://home-rate-web-cum6rozeb-dynecodes-projects.vercel.app]
 
 ### 💡 Usage Tips
 
@@ -91,7 +91,7 @@ HomeRate-Web-UI/
 - Follow consistent design patterns
 - Add loading and error states for better UX
 
-###🛤 Roadmap
+### 🛤 Roadmap
 - Dark mode toggle
 - Advanced filters (price, location, bedrooms)
 - Map view integration
