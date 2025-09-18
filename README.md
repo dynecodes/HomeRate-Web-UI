@@ -14,7 +14,7 @@ A modern, responsive front-end for the real estate listing app **HomeRate** buil
 - [Usage](#-usage)  
 - [Roadmap](#-roadmap)  
 - [Contributing](#-contributing)  
-- [License](#-license)  
+- [Acknowledgements](#-Acknowledgements)  
 
 ---
 
@@ -107,10 +107,6 @@ Contributions are welcome!
 - Push to the branch (git push origin feat-name)
 - Open a Pull Request
 
-### 📝 License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
 
 ### 🙏 Acknowledgements
  
