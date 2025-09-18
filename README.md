@@ -1,40 +1,131 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏡 HomeRate Web UI
 
-## Getting Started
+A modern, responsive front-end for the real estate listing app **HomeRate** built with Next.js. This project provides a sleek user interface for browsing properties, filtering searches, viewing details, and managing user interactions.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Features](#-features)  
+- [Tech Stack](#-tech-stack)  
+- [Screenshots](#-screenshots)  
+- [Getting Started](#-getting-started)  
+- [Project Structure](#-project-structure)  
+- [Usage](#-usage)  
+- [Roadmap](#-roadmap)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+- Property listings with search, filter, and sort  
+- Property detail pages with images and descriptions  
+- Responsive design (mobile, tablet, desktop)  
+- Smooth transitions and effects for UI elements  
+- Authentication / Profile UI (if implemented)  
+- Clean navigation and UX  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Layer        | Technology           |
+|--------------|----------------------|
+| Framework    | Next.js              |
+| Language     | TypeScript / JavaScript |
+| UI / Styling | Tailwind CSS         |
+| Icons        | react-icons          |
+| Animations   | Framer Motion        |
+| Carousel     | react-multi-carousel |
+| Tooling      | Turbopack / Vercel / Node.js |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📸 Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# HomeRate-Web-UI
->>>>>>> 04c1ece3bc50e2503da51298d6d62a1f8d1ad73c
+_Add some screenshots of your UI here (use GitHub assets or local `/public` images):_
+
+![Homepage](https://github.com/user-attachments/assets/your-image-id)  
+![Property Details](https://github.com/user-attachments/assets/your-image-id)
+
+---
+
+## 🧭 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or newer)  
+- npm or Yarn  
+- Git  
+
+### Installation
+
+    ```bash
+    # Clone the repo
+    git clone https://github.com/dynecodes/HomeRate-Web-UI.git
+    
+    # Enter the project folder
+    cd HomeRate-Web-UI
+    
+    # Install dependencies
+    npm install
+    # or
+    yarn install
+
+
+### Project Structure
+HomeRate-Web-UI/
+├── public/                # Static assets (images, icons, etc.)
+├── src/
+│   ├── components/        # Reusable UI components
+│   ├── pages/             # Page routes
+│   ├── styles/            # Global and component styles
+│   ├── utils/             # Helper functions, API clients
+│   └── hooks/             # Custom React hooks
+├── .env.local             # Environment variables (e.g., API URLs)
+├── next.config.js         # Next.js configuration
+├── tailwind.config.js     # Tailwind configuration
+├── package.json
+└── README.md
+
+### Live Site
+##[https://home-rate-web-cum6rozeb-dynecodes-projects.vercel.app]
+
+###💡 Usage Tips
+
+- Use proper alt text on images for accessibility
+- Lazy-load images for better performance
+- Reuse components wherever possible
+- Follow consistent design patterns
+- Add loading and error states for better UX
+
+###🛤 Roadmap
+- Dark mode toggle
+- Advanced filters (price, location, bedrooms)
+- Map view integration
+- Saved/favorite listings
+
+
+###🤝 Contributing
+
+Contributions are welcome!
+- Fork the project
+- Create your feature branch (git checkout -b feat-name)
+- Commit your changes (git commit -m 'Add feature XYZ')
+- Push to the branch (git push origin feat-name)
+- Open a Pull Request
+
+###📝 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+###🙏 Acknowledgements
+ 
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- React Multi Carousel
