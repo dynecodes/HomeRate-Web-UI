@@ -42,16 +42,6 @@ A modern, responsive front-end for the real estate listing app **HomeRate** buil
 | Tooling      | Turbopack / Vercel / Node.js |
 
 ---
-
-## 📸 Screenshots
-
-_Add some screenshots of your UI here (use GitHub assets or local `/public` images):_
-
-![Homepage](https://github.com/user-attachments/assets/your-image-id)  
-![Property Details](https://github.com/user-attachments/assets/your-image-id)
-
----
-
 ## 🧭 Getting Started
 
 ### Prerequisites
@@ -93,7 +83,7 @@ HomeRate-Web-UI/
 ### Live Site
 ##[https://home-rate-web-cum6rozeb-dynecodes-projects.vercel.app]
 
-###💡 Usage Tips
+### 💡 Usage Tips
 
 - Use proper alt text on images for accessibility
 - Lazy-load images for better performance
@@ -108,7 +98,7 @@ HomeRate-Web-UI/
 - Saved/favorite listings
 
 
-###🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome!
 - Fork the project
@@ -117,12 +107,12 @@ Contributions are welcome!
 - Push to the branch (git push origin feat-name)
 - Open a Pull Request
 
-###📝 License
+### 📝 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
-###🙏 Acknowledgements
+### 🙏 Acknowledgements
  
 - Next.js
 - Tailwind CSS
