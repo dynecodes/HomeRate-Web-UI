@@ -3,7 +3,6 @@ import type { Metadata } from "next";
 import {  Roboto } from "next/font/google";
 import "./globals.css";
 import ResponsiveNav from "@/components/Home/Navbar/ResponsiveNav";
-import MobileNav  from "@/components/Home/Navbar/MobileNav";
 
 const font = Roboto({
   weight: ["100", "300", "400", "500", "800"],
@@ -26,8 +25,6 @@ export default function RootLayout({
         className={font.className}>   
         
         < ResponsiveNav />
-        < MobileNav />
-    
 
         {children}
       </body>
