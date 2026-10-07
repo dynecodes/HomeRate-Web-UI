@@ -81,7 +81,7 @@ HomeRate-Web-UI/
 └── README.md
 
 ### Live Site
-## [https://home-rate-web-cum6rozeb-dynecodes-projects.vercel.app]
+## [https://home-rate-web-ui.vercel.app/]
 
 ### 💡 Usage Tips
 
